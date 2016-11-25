@@ -1,0 +1,3 @@
+mt-project/data/*
+mt-project/notebooks/.ipynb_checkpoints/*
+*.DS_Store
